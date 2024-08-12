@@ -1,0 +1,24 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import HomePage from "../Pages/HomePage";
+import ProductListing from "../Components/ProductListing";
+import DescricaoProduto from "../Pages/DescricaoProduto";
+import Header from "../Components/Header";
+import Footer from "../Components/Footer";
+
+const Paths = () => {
+    return ( 
+    <>
+    <BrowserRouter>
+    <Header/>
+        <Routes>
+            <Route path="/" element={<HomePage />}/>
+            <Route path="/tenis" element={<ProductListing/>} />
+            <Route path="/descricaoproduto" element={<DescricaoProduto />} />
+        </Routes>
+        <Footer/>
+    </BrowserRouter>
+    </> 
+    );
+}
+
+export default Paths;

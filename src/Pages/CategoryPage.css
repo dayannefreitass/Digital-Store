@@ -1,0 +1,168 @@
+#imgs-container img {
+    width: 118px;
+    height: 90px;
+}
+.container-img {
+    margin-left: 120px;
+}
+#main-img {
+    background-color: #E2E3FF;
+    padding: 50px;
+    height: 400px; 
+    width: 550px;
+}
+#route span {
+    color: #474747;
+}
+#route {
+    margin-left: 180px;
+    color: #474747;
+}
+.card-1 {
+    background-color: #E2E3FF;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.card-2 {
+    background-color: #FFE8BC;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.card-3 {
+    background-color: #FFC0BC;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.card-4 {
+    background-color: #DEC699;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.card-5 {
+    background-color: #E8DFCF;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.description-product span {
+    color: #474747;
+    font-size: 30px;
+}
+.description-product .price-underline {
+    font-size: 20px;
+    color: #cccccc;
+    text-decoration: line-through;
+}
+.product-container {
+    margin-left: 50px;
+    display: flex;
+    gap: 60px;
+}
+.description-product h1 {
+    width: 400px;
+    font-size: 26px;
+    font-weight: 900;
+}
+.description-product h5, h6 {
+    color: #8F8F8F;
+    font-size: 15px;
+}
+.description-product h6 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.description-product h1, p, h6, button {
+    margin-left: 0;
+}
+.size-tenis button {
+    height: 40px;
+    border-radius: 5px;
+    width: 50px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+}
+.size-tenis button:hover {
+    color: #ffffff;
+    background-color: #C92071;
+}
+.buy-btn {
+    background-color: #FFB31F;
+    color: #ffffff;
+    height: 50px;
+    width: 120px;
+    border: none;
+    border-radius: 15px;
+}
+.colors-options {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.color-opt1 {
+    background-color: #FFB31F;
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+}
+.color-opt2 {
+    background-color: #FF6969;
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+}
+.color-opt3 {
+    background-color: #5E5E5E;
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+}
+.color-opt1:hover, .color-opt2:hover, .color-opt3:hover, .color-opt4:hover, .color-opt5:hover {
+    border: 1px solid #130d03;
+}
+.color-opt4 {
+    background-color: #6D70B7;
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+}
+.kwiss-container {
+    margin: 0 auto;
+    width: 75%;
+    gap: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.others-options {
+    display: flex;
+    margin-left: 180px;
+    gap: 1200px;
+    margin-top: 50px;
+}
+.more-options {
+    background-color: #f4f4f4;
+    height: 400px;
+    width: 350px;
+    margin-bottom: 100px;
+}
+.more-options h2 {
+    margin-left: 20px;
+    border-radius: 5px;
+    color: #474747;
+    font-size: 16px;
+    background-color: #E7FF86;
+    width: 80px;
+    text-align: center;
+}
+.tenis-description h1 {
+    margin-left: 0px;
+    font-size: 19px;
+    width: 350px;
+}
+.tenis-description h5 {
+    font-size: 13px;
+    color: #5E5E5E;
+}
+.tenis-description span {
+    color: #8F8F8F;
+    text-decoration: line-through;
+}

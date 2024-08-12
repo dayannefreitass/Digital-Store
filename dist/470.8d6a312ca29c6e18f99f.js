@@ -1,0 +1,1 @@
+(self.webpackChunkdigital=self.webpackChunkdigital||[]).push([[470],{431:()=>{},470:(e,l,t)=>{"use strict";t.r(l),t.d(l,{default:()=>c});var a=t(540),n=t(431),u=t.n(n);const c=()=>a.createElement("div",null,a.createElement("h1",null,"Product Page"),a.createElement(u(),null))}}]);

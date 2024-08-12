@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital=self.webpackChunkdigital||[]).push([[886],{886:(e,l,t)=>{t.r(l),t.d(l,{default:()=>d});var a=t(540);const d=()=>a.createElement("div",null,a.createElement("h1",null,"pedidos"))}}]);
